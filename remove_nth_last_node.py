@@ -3,7 +3,7 @@
 # Remove nth node from the end from a linked list.
 
 def remove_nth_last_node(head, n):
-    
+
     right = head
     left = head
     
